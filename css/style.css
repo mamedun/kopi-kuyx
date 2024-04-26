@@ -142,7 +142,7 @@ nav {
    untuk pengguna vscode silahkan arahkan mouse ke kotak warna di bawah
    untuk mengganti warna sesuai keinginan
    */
-   background-color: purple;
+   background-color: rgb(80, 47, 2);
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
@@ -542,7 +542,7 @@ div.kontak {
 
 footer {
    background-color: #198754;
-   background-color: purple;
+   background-color: rgb(56, 19, 4);
    padding-top: 15px;
    padding-bottom: 15px;
    color: #fff;
